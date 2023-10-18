@@ -1,1 +1,1 @@
-function queSuba (x);
+function queSuba (x-2);
