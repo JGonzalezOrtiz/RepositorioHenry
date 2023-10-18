@@ -1,0 +1,1 @@
+Akainu, Aokiji, Kizaru
